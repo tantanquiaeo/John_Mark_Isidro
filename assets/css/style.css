@@ -6,6 +6,10 @@
 * License: https://bootstrapmade.com/license/
 */
 
+/* Import Google Fonts */
+@import url("//fonts.googleapis.com/css2?family=Orelega+One:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -377,6 +381,23 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
+
+/* Paragraph */
+#about .section-title p{
+  transform:translatex(0px) translatey(0px);
+  text-align:justify;
+  font-family:'Orelega One', display;
+  font-size:18px;
+ }
+ 
+ /* Paragraph */
+ #about .aos-init p{
+  font-family:'Orelega One', display;
+  text-align:justify;
+  font-size:18px;
+ }
+ 
+ 
 
 /*--------------------------------------------------------------
 # Facts
