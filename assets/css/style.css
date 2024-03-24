@@ -9,6 +9,37 @@
 /* Import Google Fonts */
 @import url("//fonts.googleapis.com/css2?family=Orelega+One:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
 
+/* About */
+#about{
+  background-image:url("https://scontent.fcrk1-3.fna.fbcdn.net/v/t1.15752-9/433917069_1127547725039995_4347045051406393742_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH7kel8fdHvqUZMB3dZIAD-EAxl63v4Dp4QDGXre_gOnil2lGYV9x0zWHK5V6oc59o3ScDl8Cx6X8o-nLsWluel&_nc_ohc=r8-AAe8YxmoAX9294ZW&_nc_ht=scontent.fcrk1-3.fna&oh=03_AdQ5NnM20jEZzC4RmQejb5yDCAtjXvkHdpdwBXr90EbEpA&oe=66271F5B");
+  background-size:cover;
+ }
+ 
+ /* Facts */
+ #facts{
+  background-image:url("https://scontent.fcrk1-3.fna.fbcdn.net/v/t1.15752-9/433917069_1127547725039995_4347045051406393742_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH7kel8fdHvqUZMB3dZIAD-EAxl63v4Dp4QDGXre_gOnil2lGYV9x0zWHK5V6oc59o3ScDl8Cx6X8o-nLsWluel&_nc_ohc=r8-AAe8YxmoAX9294ZW&_nc_ht=scontent.fcrk1-3.fna&oh=03_AdQ5NnM20jEZzC4RmQejb5yDCAtjXvkHdpdwBXr90EbEpA&oe=66271F5B");
+  background-size:cover;
+ }
+ 
+ /* Skills */
+ #skills{
+  background-image:url("https://scontent.fcrk1-3.fna.fbcdn.net/v/t1.15752-9/433917069_1127547725039995_4347045051406393742_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH7kel8fdHvqUZMB3dZIAD-EAxl63v4Dp4QDGXre_gOnil2lGYV9x0zWHK5V6oc59o3ScDl8Cx6X8o-nLsWluel&_nc_ohc=r8-AAe8YxmoAX9294ZW&_nc_ht=scontent.fcrk1-3.fna&oh=03_AdQ5NnM20jEZzC4RmQejb5yDCAtjXvkHdpdwBXr90EbEpA&oe=66271F5B");
+  background-size:cover;
+ }
+ 
+ /* Portfolio */
+ #portfolio{
+  background-image:url("https://scontent.fcrk1-3.fna.fbcdn.net/v/t1.15752-9/433917069_1127547725039995_4347045051406393742_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH7kel8fdHvqUZMB3dZIAD-EAxl63v4Dp4QDGXre_gOnil2lGYV9x0zWHK5V6oc59o3ScDl8Cx6X8o-nLsWluel&_nc_ohc=r8-AAe8YxmoAX9294ZW&_nc_ht=scontent.fcrk1-3.fna&oh=03_AdQ5NnM20jEZzC4RmQejb5yDCAtjXvkHdpdwBXr90EbEpA&oe=66271F5B");
+  background-size:cover;
+ }
+ 
+ /* Contact */
+ #contact{
+  background-image:url("https://scontent.fcrk1-3.fna.fbcdn.net/v/t1.15752-9/433917069_1127547725039995_4347045051406393742_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH7kel8fdHvqUZMB3dZIAD-EAxl63v4Dp4QDGXre_gOnil2lGYV9x0zWHK5V6oc59o3ScDl8Cx6X8o-nLsWluel&_nc_ohc=r8-AAe8YxmoAX9294ZW&_nc_ht=scontent.fcrk1-3.fna&oh=03_AdQ5NnM20jEZzC4RmQejb5yDCAtjXvkHdpdwBXr90EbEpA&oe=66271F5B");
+  background-size:cover;
+ }
+ 
+ 
 
 /*--------------------------------------------------------------
 # General
@@ -355,6 +386,7 @@ section {
   font-size: 26px;
   color: #173b6c;
 }
+
 
 .about .content ul {
   list-style: none;
